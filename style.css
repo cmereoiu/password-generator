@@ -1,1 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+/* Main Style */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #6a6a6a;
+  color: #fff;
+  font-family: 'Noto', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  padding: 10px;
+}
