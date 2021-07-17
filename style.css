@@ -16,3 +16,12 @@ body {
   margin: 0;
   padding: 10px;
 }
+
+h1 {
+  padding: 10px 0 20px;
+  text-align: center;
+}
+
+.wrapper {
+  background-color: #3a3535;
+}
